@@ -1,2 +1,3 @@
-Line
-New Line in New Folder!
+Some changes in document
+My new Line
+New Line in (New Folder)!!!!
